@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="36" viewBox="0 0 35 36">
+  <g id="menu" transform="translate(-320 -590)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(320 590)" fill="none" stroke="#01519b" stroke-width="1">
+      <ellipse cx="17.5" cy="18" rx="17.5" ry="18" stroke="none"/>
+      <ellipse cx="17.5" cy="18" rx="17" ry="17.5" fill="none"/>
+    </g>
+    <g id="Group_3477" data-name="Group 3477" transform="translate(324 603.5)">
+      <g id="open-menu_2_" data-name="open-menu (2)" transform="translate(7.573 0.11)">
+        <path id="Path_30" data-name="Path 30" d="M11.36,53.181H.494a.494.494,0,1,1,0-.988H11.36a.494.494,0,1,1,0,.988Zm0,0" transform="translate(0 -48.407)" fill="#01519b"/>
+        <path id="Path_31" data-name="Path 31" d="M11.36.988H.494A.494.494,0,0,1,.494,0H11.36a.494.494,0,1,1,0,.988Zm0,0" fill="#01519b"/>
+        <path id="Path_32" data-name="Path 32" d="M11.36,105.372H.494a.494.494,0,0,1,0-.988H11.36a.494.494,0,0,1,0,.988Zm0,0" transform="translate(0 -96.811)" fill="#01519b"/>
+      </g>
+    </g>
+  </g>
+</svg>

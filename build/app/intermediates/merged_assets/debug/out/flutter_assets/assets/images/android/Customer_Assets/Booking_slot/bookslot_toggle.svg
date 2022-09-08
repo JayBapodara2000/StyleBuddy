@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="34.5" viewBox="0 0 21 34.5">
+  <g id="bookslot_toggle" transform="translate(-85 -495.493)">
+    <line id="Line_13" data-name="Line 13" y1="27" transform="translate(95.5 500.993)" fill="none" stroke="#fc62b2" stroke-linecap="round" stroke-width="4"/>
+    <g id="Ellipse_842" data-name="Ellipse 842" transform="translate(88 498.493)" fill="#fff" stroke="#fc62b2" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_843" data-name="Ellipse 843" transform="translate(85 495.493)" fill="none" stroke="#fc62b2" stroke-width="1" opacity="0.47">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="10" fill="none"/>
+    </g>
+  </g>
+</svg>
